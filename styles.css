@@ -1,0 +1,141 @@
+@import 'animate.css';
+
+/*.animated.infinite {
+
+}*/
+body {
+  height: 1000px;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.key65 {
+  animation-iteration-count: infinite;
+  animation-name: pulse;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key83 {
+  animation-iteration-count: infinite;
+  animation-name: swing;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key68 {
+  animation-iteration-count: infinite;
+  animation-name: wobble;
+  border-radius: 50%;
+  background-color: pink;
+
+}
+.key70 {
+  animation-iteration-count: infinite;
+  animation-name: wobble;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key71 {
+  animation-iteration-count: infinite;
+  animation-name: pulse;
+  border-radius: 50%;
+  background-color: pink;
+
+}
+.key72 {
+  animation-iteration-count: infinite;
+  animation-name: rubberBand;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key74 {
+  animation-iteration-count: infinite;
+  animation-name: wobble;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key75 {
+  animation-iteration-count: infinite;
+  animation-name: jello;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key76 {
+  animation-iteration-count: infinite;
+  animation-name: pulse;
+  border-radius: 50%;
+  background-color: pink;
+
+}
+.key86 {
+  animation-iteration-count: infinite;
+  animation-name: jello;
+  border-radius: 50%;
+  background-color: pink;
+}
+
+.key81 {
+  animation-iteration-count: infinite;
+  animation-name: rubberBand;
+  border-radius: 50%;
+  background-color: pink;
+
+}
+.key87 {
+  animation-iteration-count: infinite;
+  animation-name: wobble;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key69 {
+  animation-iteration-count: infinite;
+  animation-name: bounce;
+  transform-origin: center bottom;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key82 {
+  animation-iteration-count: infinite;
+  animation-name: swing;
+  border-radius: 50%;
+  background-color: pink;
+}
+
+.key84 {
+  animation-iteration-count: infinite;
+  animation-name: bounce;
+  transform-origin: center bottom;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key89 {
+  animation-iteration-count: infinite;
+  animation-name: rubberBand;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key85 {
+  animation-iteration-count: infinite;
+  animation-name: bounce;
+  transform-origin: center bottom;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key73 {
+  animation-iteration-count: infinite;
+  animation-name: swing;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key79 {
+  animation-iteration-count: infinite;
+  animation-name: swing;
+  border-radius: 50%;
+  background-color: pink;
+}
+.key80 {
+  animation-iteration-count: infinite;
+  animation-name: bounce;
+  transform-origin: center bottom;
+  border-radius: 50%;
+  background-color: pink;
+}
